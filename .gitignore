@@ -1,0 +1,8 @@
+dataset/
+RAF/
+runs/
+__pycache__/
+events.out.tfevents.*
+*.pth
+tempCodeRunnerFile.py
+*.png
